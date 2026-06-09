@@ -1,0 +1,15 @@
+name: uniagenda
+description: A Flutter app to help students organize disciplines, tasks and calendar events.
+publish_to: none
+version: 0.0.1+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.1.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
